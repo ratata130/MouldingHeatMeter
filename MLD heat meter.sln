@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLD heat meter", "MLD heat meter\MLD heat meter.csproj", "{3A3BDBD2-4163-4CA6-85C9-832036D0943C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logViewer", "logViewer\logViewer.csproj", "{3496C081-9379-4D4C-86DD-1F5D87084E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3BDBD2-4163-4CA6-85C9-832036D0943C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3BDBD2-4163-4CA6-85C9-832036D0943C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3BDBD2-4163-4CA6-85C9-832036D0943C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3BDBD2-4163-4CA6-85C9-832036D0943C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3496C081-9379-4D4C-86DD-1F5D87084E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3496C081-9379-4D4C-86DD-1F5D87084E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3496C081-9379-4D4C-86DD-1F5D87084E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3496C081-9379-4D4C-86DD-1F5D87084E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
